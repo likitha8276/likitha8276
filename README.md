@@ -134,12 +134,13 @@ I've also explored data structures and algorithms, including arrays, hashing, bi
 <div align="center">
   <a href="https://github.com/likitha8276">
     <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likitha8276&theme=github_dark"
-      alt="GitHub activity summary"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=likitha8276&bg_color=0F1923&color=FF4655&line=FF4655&point=FFFFFF&area=true&area_color=FF4655&hide_border=true&title_color=FFFFFF&radius=6"
+      alt="GitHub contribution activity graph"
       width="100%"
     />
   </a>
 </div>
+
 
 <img src="./assets/sec-comms.svg" alt="07 — Comms: Contact" width="100%">
 
