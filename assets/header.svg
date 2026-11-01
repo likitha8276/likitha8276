@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Chirreddy Likitha — Backend, AI/ML and Data">
+<defs><pattern id="g" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#ECE8E1" stroke-opacity=".05"/></pattern></defs>
+<rect width="900" height="300" fill="#0F1923"/><rect width="900" height="300" fill="url(#g)"/>
+<polygon points="700,0 900,0 900,300 560,300" fill="#FF4655" opacity=".12"/>
+<polygon points="780,0 830,0 690,300 640,300" fill="#FF4655"/>
+<polygon points="850,0 858,0 718,300 710,300" fill="#ECE8E1" opacity=".18"/>
+<g transform="translate(835,150)" stroke="#ECE8E1" fill="none">
+<circle r="52" stroke-opacity=".28" stroke-dasharray="3 6"/><circle r="3" fill="#FF4655" stroke="none"/>
+<g stroke="#ECE8E1" stroke-width="3"><path d="M0 -62V-22M0 22V62M-62 0H-22M22 0H62"/></g></g>
+<path d="M24 60V24H60" fill="none" stroke="#FF4655" stroke-width="3"/>
+<path d="M876 276V292H840" fill="none" stroke="#ECE8E1" stroke-width="2" opacity=".4"/>
+<text x="48" y="64" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="4" fill="#FF4655">DEV DOSSIER  //  VIT-AP  ·  CLASS OF 2027</text>
+<text x="48" y="136" font-family="Impact, 'Arial Narrow Bold', 'Arial Black', sans-serif" font-size="58" letter-spacing="3" fill="#ECE8E1">CHIRREDDY LIKITHA</text>
+<polygon points="48,152 188,152 180,160 48,160" fill="#FF4655"/>
+<text x="48" y="192" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="17" letter-spacing="4" fill="#8B97A3">BACKEND  /  AI · ML  /  DATA</text><polygon points="48,212 115,212 122,219 122,238 55,238 48,231" fill="none" stroke="#FF4655" stroke-width="1.5"/><text x="61" y="229" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1" fill="#ECE8E1">PYTHON</text><polygon points="132,212 183,212 190,219 190,238 139,238 132,231" fill="none" stroke="#FF4655" stroke-width="1.5"/><text x="145" y="229" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1" fill="#ECE8E1">JAVA</text><polygon points="200,212 243,212 250,219 250,238 207,238 200,231" fill="none" stroke="#FF4655" stroke-width="1.5"/><text x="213" y="229" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1" fill="#ECE8E1">SQL</text><polygon points="260,212 336,212 343,219 343,238 267,238 260,231" fill="none" stroke="#FF4655" stroke-width="1.5"/><text x="273" y="229" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1" fill="#ECE8E1">FASTAPI</text><polygon points="353,212 461,212 468,219 468,238 360,238 353,231" fill="none" stroke="#FF4655" stroke-width="1.5"/><text x="366" y="229" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="1" fill="#ECE8E1">SPRING BOOT</text><text x="48" y="270" font-family="Consolas, 'Courier New', monospace" font-size="13" letter-spacing="2" fill="#ECE8E1" opacity=".75">BUILD THE SYSTEM. TEACH IT TO REASON. SHIP IT.</text>
+<polygon points="0,292 300,292 312,300 0,300" fill="#FF4655"/></svg>

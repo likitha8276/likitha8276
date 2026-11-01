@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="56" viewBox="0 0 900 56" role="img" aria-label="01 — AGENT PROFILE">
+<rect width="900" height="56" fill="#0F1923"/>
+<polygon points="0,6 98,6 84,46 0,46" fill="#FF4655"/>
+<text x="16" y="38" font-family="Impact, 'Arial Narrow Bold', 'Arial Black', sans-serif" font-size="30" fill="#0F1923">01</text>
+<text x="114" y="38" font-family="Impact, 'Arial Narrow Bold', 'Arial Black', sans-serif" font-size="28" letter-spacing="4" fill="#ECE8E1">AGENT PROFILE</text>
+<text x="884" y="36" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2" fill="#8B97A3">WHO I AM</text>
+<rect x="98" y="50" width="786" height="1.5" fill="#2A3540"/><rect x="98" y="49" width="60" height="3.5" fill="#FF4655"/>
+<path d="M884 44V52H876" fill="none" stroke="#FF4655" stroke-width="2"/></svg>
