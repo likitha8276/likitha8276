@@ -4,7 +4,7 @@
 
 </div>
 
-<img src="./assets/sec-profile.svg" alt="01 — Agent Profile" width="100%">
+<img src="./assets/sec-profile.svg" alt="01 — Profile" width="100%">
 
 I'm a fourth-year CS student at **VIT-AP University** (graduating 2027) working across backend engineering, applied ML, and data-driven applications.
 
@@ -89,7 +89,7 @@ photo / text ──► CLIP ──┘
 
 **Hands-on experience:** building APIs · integrating LLMs · semantic and visual similarity · anomaly detection · data storytelling · evidence verification
 <img src="./assets/sec-next.svg" alt="05 — Next Round: currently exploring" width="100%">
-### 05 — NEXT ROUND: CURRENTLY EXPLORING
+
 
 - **Backend engineering:** strengthening my understanding of Spring Boot, PostgreSQL, Redis, and scalable system design.
 - **AI & ML:** finding better ways to evaluate model outputs, interpret results, and turn predictions into useful insights.
