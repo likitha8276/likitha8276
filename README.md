@@ -83,11 +83,11 @@ photo / text ──► CLIP ──┘
 
 <img src="./assets/sec-rounds.svg" alt="04 — Round Log: problem-solving" width="100%">
 
-An ongoing practice, not a finished one.
+**Exploring across the stack, one project at a time.**
 
-**Covered so far:** arrays · hashing · binary search · Merge Sort &amp; Quick Sort · trees · BFS / DFS
-**Patterns practised:** Boyer–Moore majority vote · anagram grouping · stock-profit optimisation · tree traversals
+**Areas explored:** backend engineering · AI/ML · data analysis · intelligent systems · security-focused AI agents
 
+**Hands-on experience:** building APIs · integrating LLMs · semantic and visual similarity · anomaly detection · data storytelling · evidence verification
 <img src="./assets/sec-next.svg" alt="05 — Next Round: currently exploring" width="100%">
 
 - Stronger backend fundamentals: Spring Boot, PostgreSQL, Redis
