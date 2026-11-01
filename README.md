@@ -89,9 +89,12 @@ photo / text ──► CLIP ──┘
 
 **Hands-on experience:** building APIs · integrating LLMs · semantic and visual similarity · anomaly detection · data storytelling · evidence verification
 <img src="./assets/sec-next.svg" alt="05 — Next Round: currently exploring" width="100%">
+### 05 — NEXT ROUND: CURRENTLY EXPLORING
 
-- Stronger backend fundamentals: Spring Boot, PostgreSQL, Redis
-- Better ways to evaluate and explain ML outputs
+- **Backend engineering:** strengthening my understanding of Spring Boot, PostgreSQL, Redis, and scalable system design.
+- **AI & ML:** finding better ways to evaluate model outputs, interpret results, and turn predictions into useful insights.
+- **Intelligent systems:** exploring agent workflows, evidence verification, and reliable LLM-based applications.
+- **Problem-solving:** improving my approach to coding challenges and writing cleaner, more efficient solutions.
 
 <img src="./assets/sec-activity.svg" alt="06 — Match Activity: GitHub contributions" width="100%">
 
